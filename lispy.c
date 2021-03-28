@@ -1,4 +1,4 @@
-#include "mpc.h"
+#include "mpc/mpc.h"
 
 #include <editline/readline.h>
 

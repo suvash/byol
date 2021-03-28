@@ -1,5 +1,5 @@
 CC = cc -std=c99 -Wall -ledit -lm
-DEP = mpc.c
+DEP = mpc/mpc.c
 EXE = lispy.exe
 
 .PHONY: phony
